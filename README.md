@@ -2,7 +2,7 @@
 
 Please wait a while for all the videos to load.
 
-If you are unable to play the video, please try the alternative link below:[Alternative Link](https://anonymous.4open.science/r/BumbleBee-video/README.md). Or, you can download the repo and watch it locally.
+If you are unable to play the video, please try the alternative link: [Alternative Link](https://anonymous.4open.science/r/BumbleBee-video/README.md) and refresh the page. Or, you can download the repo and watch it locally.
 
 ## Long Sequences
 
