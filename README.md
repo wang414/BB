@@ -26,6 +26,8 @@ We present the performance of the policies on the AMASS dataset. For motions tha
 
 - motion 1: [SU-motion1](./videos/AMASS/su1.mp4)
 
+- motion 2: [SU-motion2](./videos/AMASS/su2.mp4)
+
 ### Walk Slow
 
 ### Walk Fast
