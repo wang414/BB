@@ -22,6 +22,10 @@ We present the performance of the policies on the AMASS dataset. For motions tha
 
 ### Stand Mid
 
+- motion 1: [SM-motion1](./videos/AMASS/sm1.mp4)
+
+- motion 2: [SM-motion2](./videos/AMASS/sm2.mp4)
+
 ### Stand Up
 
 - motion 1: [SU-motion1](./videos/AMASS/su1.mp4)
