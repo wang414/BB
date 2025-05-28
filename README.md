@@ -16,6 +16,12 @@ We first demonstrate the performance on the **LAFAN1** dataset, sourced from the
 ## Motions in AMASS
 We present the performance of the policies on the AMASS dataset. For motions that can be completed from the beginning, the left side shows their performance under the initial expert models, and the right side shows their performance under the final general policy. The remaining videos demonstrate the performance of the final policy.
 
+### Walk Fast
+
+- motion 1: [WF-motion1](./videos/AMASS/wf1.mp4)
+
+- motion 2: [WF-motion2](./videos/AMASS/wf2.mp4)
+
 ### Jump
 
 - motion 1: [Jump-motion1](./videos/AMASS/jump1.mp4)
@@ -45,12 +51,6 @@ We present the performance of the policies on the AMASS dataset. For motions tha
 - motion 1: [WS-motion1](./videos/AMASS/ws1.mp4)
 
 - motion 2: [WS-motion2](./videos/AMASS/ws2.mp4)
-
-### Walk Fast
-
-- motion 1: [WF-motion1](./videos/AMASS/wf1.mp4)
-
-- motion 2: [WF-motion2](./videos/AMASS/wf2.mp4)
 
 ## Reference
 
