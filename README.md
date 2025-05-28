@@ -2,6 +2,8 @@
 
 Please wait a while for all the videos to load.
 
+If you are unable to play the video, please try the alternative link below:[Alternative Link](https://anonymous.4open.science/r/BumbleBee-video/README.md). Or, you can download the repo and watch it locally.
+
 ## Long Sequences
 
 We first demonstrate the performance on the **LAFAN1** dataset, sourced from the Ubisoft La Forge Animation Dataset ([Harvey et al., 2020](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)) [1].
