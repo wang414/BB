@@ -14,6 +14,7 @@ We first demonstrate the performance on the **LAFAN1** dataset, sourced from the
 - Merged motion combining Charleston Dance and Boxing: [Merged](./videos/LongSequence/Merged.mp4)
 
 ## Motions in AMASS
+We present the performance of the policies on the AMASS dataset. For motions that can be completed from the beginning, the left side shows their performance under the initial expert models, and the right side shows their performance under the final general policy. The remaining videos demonstrate the performance of the final policy.
 
 ### Jump
 
@@ -22,6 +23,8 @@ We first demonstrate the performance on the **LAFAN1** dataset, sourced from the
 ### Stand Mid
 
 ### Stand Up
+
+- motion 1: [SU-motion1](./videos/AMASS/su1.mp4)
 
 ### Walk Slow
 
